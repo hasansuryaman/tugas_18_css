@@ -2,4 +2,4 @@
 
 Flexbox
 
-![tugas18](screen/tugas18.css)
+![tugas18](screen/tugas18.png)
